@@ -33,7 +33,7 @@ TODO: Add long description of the pod here.
   s.source_files = 'podtest/Classes/**/*'
   
 
-  s.vendored_frameworks = 'Framework/Podtest.framework'
+  s.vendored_frameworks = 'podtest/ThirdPart/testpod.framework'
 
 
   
