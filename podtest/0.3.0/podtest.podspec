@@ -33,7 +33,7 @@ TODO: Add long description of the pod here.
   s.source_files = 'podtest/Classes/**/*'
   
 
-  #s.vendored_frameworks = 'podtest/ThirdPart/QZCameraKit.framework'
+  s.vendored_frameworks = 'podtest/ThirdPart/Podtest.framework'
 
 
   
