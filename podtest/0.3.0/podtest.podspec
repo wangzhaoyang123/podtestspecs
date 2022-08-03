@@ -33,11 +33,11 @@ TODO: Add long description of the pod here.
   s.source_files = 'podtest/Classes/**/*'
   
 
-  s.vendored_frameworks = 'podtest/ThirdPart/Podtest.framework'
+  #s.vendored_frameworks = 'podtest/ThirdPart/QZCameraKit.framework'
 
 
   
-  # s.resource_bundles = {
+  # s.resource_bundles = {  podtest/ThirdPart/Podtest.framework
   #   'podtest' => ['podtest/Assets/*.png']
   # }
 
